@@ -50,6 +50,7 @@ pip install pandas openpyxl
 ```
 
 `pandas` handles the table of data, and `openpyxl` lets Python read Excel files. If they are already installed, this command does nothing.
+If you set up the Gemini environment from README.md, this step is not needed
 
 ### 2.3 Put the files in one folder
 
