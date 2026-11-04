@@ -202,6 +202,8 @@ The CSV files **don't record which elements and stages you selected**. Write the
 
 **Runs in the same hour overwrite each other**, because the file name includes only the date and hour. Rename or move a result you want to keep before running again in the same hour.
 
+After running sum_gwp.py, replace results/ground_truth.csv with updated ground truth values.
+
 ---
 
 ## 6. What is `full_lca_results.pkl`?
