@@ -7,6 +7,8 @@ This guide is for anyone who needs to run `sum_gwp.py` but doesn't usually write
 ## 1. What the script does
 
 The file `full_lca_results.xlsx` has about 928,000 rows. Each row is one material entry for one project, at one life cycle stage, with a GWP (global warming potential) value in kg CO2e.
+Download full_lca_results.xlsx from the link under GWP-calculation: https://figshare.com/articles/dataset/A_Harmonized_Dataset_of_High-Resolution_Whole_Building_Life_Cycle_Assessment_Results_in_North_America_i_Data_only_-_i_i_First_Public_Release_i_/28462145/1
+
 
 The script lets you choose:
 
